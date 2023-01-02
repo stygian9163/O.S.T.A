@@ -9,4 +9,5 @@ Over Simplified Stock Trading App (osta) , uses previous performance data to "pr
 <br>
 ![picture](https://user-images.githubusercontent.com/72461398/210205638-fd184fab-dfa2-4c5d-83ec-cfc1ead8e284.jpg)
 <br>
+
  ### !!!  this project is still a work in progress  !!!
