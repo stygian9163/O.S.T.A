@@ -2,7 +2,7 @@
 
 Over Simplified Stock Trading App (osta) , uses previous performance data to "predict" how a stock will perform in the future.
 - Gui created using [flet](https://flet.dev/)
-- Stock data retreived using [finance](https://pypi.org/project/yfinance/).
+- Stock data retreived using [yfinance](https://pypi.org/project/yfinance/).
 - Data organisation and manipulation was done using [pandas](https://pandas.pydata.org/).
 - Graph were drawn using [plotly](https://plotly.com/).
 - s&p 500 values and payment option are **dummies** for this version.
