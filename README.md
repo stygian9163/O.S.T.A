@@ -11,7 +11,8 @@ Over Simplified Stock Trading App (osta): Uses a Long Term Short Term Recurrent 
 - s&p 500 values and payment option are **dummies** for this version.
 <br>
 
-![picture](https://user-images.githubusercontent.com/72461398/210205638-fd184fab-dfa2-4c5d-83ec-cfc1ead8e284.jpg)
+![picture](https://github.com/styg1an0fficial/O.S.T.A/assets/113419133/4d17d93d-34cf-4c38-9522-0d178dc8e22f)
+![picture](https://github.com/styg1an0fficial/O.S.T.A/assets/113419133/4cc5d6ed-cc5e-4d75-a63f-69e8018ad27f)
 
 <br>
 
